@@ -24,7 +24,7 @@ function BankLogin(props){
 	
 									<div className="column has-text-centered">
 									<span className="button is-medium is-primary is-6" onClick={() => props.BankSessionCreate()}>
-                                        GreenGables Bank
+                                        Green Bank
                                     </span>
 									</div>
 	

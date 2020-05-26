@@ -15,7 +15,7 @@ class App extends Component {
 		this.LCMaster = LCMaster;
 		this.LCabi = LCabi;
 		
-        this.appName = 'GreenGables Bank';
+        this.appName = 'Green Bank';
         this.closeTab = this.closeTab.bind(this);
 		this.resetApp = this.resetApp.bind(this);
 		this.viewLC = this.viewLC.bind(this);
